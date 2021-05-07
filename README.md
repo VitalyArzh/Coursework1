@@ -1,2 +1,4 @@
 # Coursework1
-Analytical Reporting Coursework for HR
+Analytical Reporting Coursework
+
+Аналитический отчет для дальнейшего эффуктивного выстраивания обновлений курсов и программ обучения
